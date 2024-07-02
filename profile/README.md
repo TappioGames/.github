@@ -20,4 +20,4 @@
 ## Contact Us
 ### We'd love to hear from you! Whether you have questions, suggestions, or just want to say hello, feel free to reach out to us at tappiogames@protonmail.com. Together, let's embark on this exciting adventure and create something truly special.
 
-Thank you for visiting Tappio Games. Let's make some amazing games together!
+### Thank you for visiting Tappio Games. Let's make some amazing games together!
