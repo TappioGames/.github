@@ -7,9 +7,9 @@
 
 ## Who We Are
 ### Aapo Harjunpää: The Visionary - With a keen eye for detail and a knack for storytelling, Aapo brings the narrative heart to our games.
-Anton Markki: The Tech Guru - A wizard with code and all things technical, Anton ensures our games run smoothly and look stunning.
-Kalle Heikkilä: The Art Maestro - Kalle breathes life into our concepts with breathtaking visuals and imaginative designs.
-Ege Özkan: The Sound Sorcerer - Crafting the perfect soundtrack and sound effects, Ege makes sure our games sound as amazing as they look.
+### Anton Markki: The Tech Guru - A wizard with code and all things technical, Anton ensures our games run smoothly and look stunning.
+### Kalle Heikkilä: The Art Maestro - Kalle breathes life into our concepts with breathtaking visuals and imaginative designs.
+### Ege Özkan: The Sound Sorcerer - Crafting the perfect soundtrack and sound effects, Ege makes sure our games sound as amazing as they look.
 
 ## Our Games
 ### While we are beginners in the industry, our diverse skills and fresh perspectives allow us to approach game development with a unique and innovative mindset. We are currently working on our debut title, a project that combines our love for engaging gameplay, rich storytelling, and stunning visuals. Stay tuned for more details as we continue to develop and refine our first game!
